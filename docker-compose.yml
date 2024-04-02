@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  hermes:
+    build: .
+    hostname: hermes
+    container_name: hermes
+    volumes: 
+      - ./HermesProxy:/app/HermesProxy
+    ports:
+      - "1119:1119"
+      - "8081:8081"
+      - "8084:8084"
+      - "8086:8086"
