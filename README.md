@@ -4,7 +4,7 @@
 HermesProxy Docker project enables play on existing legacy WoW emulation cores using the modern clients. It serves as a translation layer, converting all network traffic to the appropriate format each side can understand
 
 ## Download the Latest Release:
-[Navigate to the Hermes Proxy GitHub releases page and download the latest release. https://github.com/WowLegacyCore/HermesProxy](https://github.com/WowLegacyCore/HermesProxy)
+[Navigate to the Hermes Proxy GitHub releases page and download the latest Ubuntu release. https://github.com/celguar/HermesProxy](https://github.com/celguar/HermesProxy)
 
 ## Unzip the Archive:
 After downloading the release archive, unzip the ZIP file. You can use the following commands in your terminal:
